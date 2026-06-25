@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: بودكاست من داخل القطاع",
+  "description": "منصة صوتية احترافية لإنتاج حلقات بودكاست تفاعلية باللغة العربية باللهجة السعودية العامية بين شخصيتي المذيع والمحصل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
